@@ -1,0 +1,25 @@
+/* Background via https://www.transparenttextures.com/ */
+body {
+    background-color: #999999;
+    background-image: url("https://www.transparenttextures.com/patterns/scribble-light.png");
+    text-align: center;
+}
+
+.textTitles {
+    margin-top: 4vh;
+}
+
+.bodyDiv {
+    padding: 3%;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 24px;
+}
+
+.listItemContents {
+    margin-top: 5%;
+    font-weight: 400;
+    font-style: italic;
+}
